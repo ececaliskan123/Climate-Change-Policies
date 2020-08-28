@@ -1,4 +1,4 @@
-# Climate-Change-Policies-A-Machine-Learnikng-Approach
+# Climate-Change-Policies
 
 conda environment setup
 
