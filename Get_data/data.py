@@ -2,8 +2,6 @@
 
 def get_dataset():
     
-    os.chdir('/Users/ececaliskan/desktop/Data Bases/Covariates')
-
 # Covariate 1: Functioning of Government (FOG) index by Freedom House
 
     FOG = pd.read_excel('FOG index 2003-2018.xlsx',sheet_name="FIW2010") 
