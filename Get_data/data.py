@@ -35,7 +35,7 @@ def get_dataset():
 
 
 # Covarite 7: Gallup on Environmental Awareness  
-    os.chdir('/Users/ececaliskan/desktop/Data Bases/Covariates')
+    
     gallup = pd.read_excel('Gallup on Environmental Awareness 2010.xlsx') 
     gallup = gallup.rename(columns={2010:"Gallup"})
 
