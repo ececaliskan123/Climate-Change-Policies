@@ -1,1 +1,11 @@
-
+numpy==1.19.0
+PDPbox==0.2.0
+dtreeviz==0.8.2
+seaborn==0.10.1
+scikit-learn==0.23.1
+scipy==1.5.0
+plotly==4.9.0
+graphviz==0.14
+geopandas @ file:///home/conda/feedstock_root/build_artifacts/geopandas_1593010520528/work
+pandas @ file:///opt/concourse/worker/volumes/live/18a2b361-ca01-439e-799c-26ae586e114f/volume/pandas_1592841668631/work
+matplotlib @ file:///opt/concourse/worker/volumes/live/8bf90420-8b2f-40f2-5cf1-001960d57523/volume/matplotlib-base_1592846055555/work
