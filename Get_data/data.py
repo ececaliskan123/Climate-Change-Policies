@@ -68,7 +68,6 @@ def get_dataset():
 
 
 # Covarite 12/ 13: Renewables as total cons. and electricity output # 2000 or 2015 Worldbank 
-
     renewable = pd.read_excel('Renewables.xlsx', sheet_name="Sheet2")
     df=df.merge(renewable,on="Country", how="left")
 
